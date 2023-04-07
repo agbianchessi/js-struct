@@ -3,7 +3,7 @@
  * For all details and documentation: {@link https://github.com/agbianchessi/js-struct}
  * @author Andrea Giovanni Bianchessi <andrea.g.bianchessi@gmail.com>
  * @license MIT
- * @version 1.0.0
+ * @version 1.0.1
  */
 
 function byteField(p, offset) {
