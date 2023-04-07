@@ -1,0 +1,29 @@
+{
+  "name": "js-struct",
+  "version": "1.0.0",
+  "author": "Andrea Giovanni Bianchessi <andrea.g.bianchessi@gmail.com>",
+  "private": false,
+  "description": "C-like Structs for JavaScript. A browser porting of the github.com/xdenser/node-struct library.",
+  "keywords": [
+    "C",
+    "Struct",
+    "JavaScript",
+    "React",
+    "binary values",
+    "buffer"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agbianchessi/js-struct.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agbianchessi/js-struct/issues"
+  },
+  "funding": "https://paypal.me/andreagbianchessi",
+  "homepage": "https://github.com/agbianchessi/js-struct#readme"
+}
