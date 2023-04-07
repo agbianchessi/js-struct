@@ -1,7 +1,7 @@
 JS-Struct-AGB
 ======
 C-like Structs for JavaScript.
-A browser porting of the Node.js [Struct library](github.com/xdenser/node-struct).
+A browser porting of the Node.js [Struct library](https://github.com/xdenser/node-struct).
 
 Install
 ============
