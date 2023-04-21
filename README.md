@@ -15,7 +15,7 @@ Example
 
 Define some structure: 
 
-	import Struct from 'js-struct';
+	import Struct from 'js-struct-agb';
  
 	var Person = Struct()
 		.chars('firstName',10)
